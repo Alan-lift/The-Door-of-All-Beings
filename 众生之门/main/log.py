@@ -30,11 +30,4 @@ def log(title, message, explore="No explore", ip='xxxx', error: int = 1):
 \tip:
 \t\t{ip}
 '''
-	try:
-		with open(f'./logs/{time.strftime("%Y-%m-%d")}.log', 'a', encoding=encoding) as f:
-			f.write(temp_text)
-			f.flush()
-		python_.print(temp_text)
-	except FileNotFoundError:
-		os.mkdir('./logs')
-		log(title, message, explore="No explore", ip="xxxx", error=1)
+	python_.print(temp_text)

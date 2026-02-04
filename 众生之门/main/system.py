@@ -1,5 +1,4 @@
 import ursina
-import python_
 from log import log
 
 # 1. 退出鼠标控制类（解锁鼠标）
@@ -138,10 +137,8 @@ def setup_mouse_control_system(
 	combo_handler = ursina.Entity()
 	combo_handler.update = lambda: None  # 由子组件处理
 	
-	python_.print("\n" + "=" * 50)
 	log("鼠标控制系统","初始化完成")
 	log("鼠标控制系统",f"退出控制键: {exit_key}")
-	python_.print("=" * 50 + "\n")
 	
 	return {
 		'mouse_exit': mouse_exit_control,
