@@ -1,8 +1,5 @@
-import os
 import sys
-import time
 
-encoding='utf-8'
 
 def print(*args, sep=' ', end='\n', file=sys.stdout, flush=False, write=False):
 	"""
@@ -29,13 +26,4 @@ def print(*args, sep=' ', end='\n', file=sys.stdout, flush=False, write=False):
 		except Exception as e:
 			# 捕获并抛出与内置print一致的异常类型
 			raise IOError(f"打印失败: {e}") from e
-	
-	try:
-		with open(f'./logs/{time.strftime("%Y-%m-%d")}.log', 'a', encoding=encoding) as f:
-			f.write(output)
-			f.flush()
-	except FileNotFoundError:
-		os.mkdir('./logs')
-		with open(f'./logs/{time.strftime("%Y-%m-%d")}.log', 'a', encoding=encoding) as f:
-			f.write(output)
-			f.flush()
+
