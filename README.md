@@ -2,11 +2,19 @@
 
 ---
 
+[![Stars](https://img.shields.io/github/stars/crazying-dev/The-Door-of-All-Beings?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI%2bPHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiIGZpbGw9IiNlYWM1NGYiLz48L3N2Zz4%3d&logoSize=auto&label=Stars&labelColor=444444&color=eac54f)](https://github.com/crazying-dev/The-Door-of-All-Beings)
+[![Issues](https://img.shields.io/github/issues/crazying-dev/The-Door-of-All-Beings?style=flat&label=Issues&labelColor=444444&color=1F883D)](https://github.com/crazying-dev/The-Door-of-All-Beings/issues)
+[![动态-BiliBili](https://img.shields.io/badge/动态-BiliBili-00A4DB?style=flat&logo=bilibili&labelColor=444444&logoColor=white&logoSize=auto)](https://space.bilibili.com/3546900892486452)
+[![动态-小红书](https://img.shields.io/badge/动态-小红书-E4405F?style=flat&logo=xiaohongshu&labelColor=444444&logoColor=white&logoSize=auto)](https://www.xiaohongshu.com/user/profile/682d321b000000000a03c93b)
+[![赞助](https://img.shields.io/badge/-赞助-946ce6?logo=wechat&style=flat&labelColor=444444&logoSize=auto)](https://raw.githubusercontent.com/crazying-dev/other/main/%E5%8B%9F%E6%8D%90%E7%A0%81.jpg)
+
+---
+
 ![logo](./image/众生之门.gif)
 
 ---
 
-### 众生之门开发,但不一定会开发完，因为难度过高，希望大家理解一下  
+### 众生之门开发
 
 ---
 
@@ -30,16 +38,15 @@
 
 ---
 
-<small><small> [小红书](https://www.xiaohongshu.com)，[BiliBili](https://www.bilibili.com)会更新</small></small>
+[查看所有成果](./ReadExplor/成果/ALL.md)
 
 ---
 
-[查看所有成果]()
-
----
-
-特别鸣谢(人员列表可能不完整，如有缺少，请联系我修补，[联系方式点这里](./ReadExplor/联系方式.md))  
+特别鸣谢(人员列表可能不完整，如有缺少，请告知me，[联系方式点这里](./ReadExplor/联系方式.md))  
 小红书号：`atbbage`  
 小红书号：`6289561278`
 
-###### <small><small><small><small><small><small><small><small><small><small><small><small><small>作者是gay，不用管我，没人看</small></small></small></small></small></small></small></small></small></small></small></small></small>
+
+>有没有人可以陪我聊聊天啊<br/>
+>好无聊，最近新番都不好看，怎么都没人找我？<br/>
+><small><small><small><small><small><small><small><small><small><small><small><small><small><small><small><small>我是gay，我是0,不用管我，没人看得到</small></small></small></small></small></small></small></small></small></small></small></small></small></small></small></small>
