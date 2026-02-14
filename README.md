@@ -6,11 +6,11 @@
 [![Issues](https://img.shields.io/github/issues/crazying-dev/The-Door-of-All-Beings?style=flat&label=Issues&labelColor=444444&color=1F883D)](https://github.com/crazying-dev/The-Door-of-All-Beings/issues)
 [![动态-BiliBili](https://img.shields.io/badge/动态-BiliBili-00A4DB?style=flat&logo=bilibili&labelColor=444444&logoColor=white&logoSize=auto)](https://space.bilibili.com/3546900892486452)
 [![动态-小红书](https://img.shields.io/badge/动态-小红书-E4405F?style=flat&logo=xiaohongshu&labelColor=444444&logoColor=white&logoSize=auto)](https://www.xiaohongshu.com/user/profile/682d321b000000000a03c93b)
-[![赞助](https://img.shields.io/badge/-赞助-946ce6?logo=wechat&style=flat&labelColor=444444&logoSize=auto)](https://raw.githubusercontent.com/crazying-dev/other/main/%E5%8B%9F%E6%8D%90%E7%A0%81.jpg)
+[![赞助](https://img.shields.io/badge/-赞助-946ce6?logo=wechat&style=flat&labelColor=444444&logoSize=auto)](./ReadExplor/募捐.md)
 
 ---
 
-![logo](./image/众生之门.gif)
+![logo](https://raw.githubusercontent.com/crazying-dev/other/main/%E4%BC%97%E7%94%9F%E4%B9%8B%E9%97%A8.gif)
 
 ---
 
@@ -29,7 +29,8 @@
 `2026.02.04` - 感谢小红书号：`6289561278` 提供的[六大系的面板平面图](ReadExplor/六大系的面板平面图.md)  
 `2026.02.12` - 抠图*1 -获取了[御灵系图标](./ReadExplor/成果/御灵系.md)  
 `2026.02.13` - 获取[众生之门logo](./ReadExplor/logo.md)  
-`2026.02.14` - 抠图*1 -获取了[空间系图标](./ReadExplor/成果/空间系.md)
+`2026.02.14` - 抠图*1 -获取了[空间系图标](./ReadExplor/成果/空间系.md)  
+`2026.02.14` - 抠图*1 -获取了[心灵系图标](./ReadExplor/成果/空间系.md)
 
 ---
 
@@ -38,7 +39,11 @@
 
 ---
 
-[查看所有成果](./ReadExplor/成果/ALL.md)
+[点击查看所有成果](./ReadExplor/成果/ALL.md)
+
+---
+
+[![打赏](https://img.shields.io/badge/-打赏点这里-946ce6?logo=wechat&style=flat&labelColor=444444&logoSize=auto)](./ReadExplor/募捐.md)
 
 ---
 
@@ -49,4 +54,4 @@
 
 >有没有人可以陪我聊聊天啊<br/>
 >好无聊，最近新番都不好看，怎么都没人找我？<br/>
-><small><small><small><small><small><small><small><small><small><small><small><small><small><small><small><small>我是gay，我是0,不用管我，没人看得到</small></small></small></small></small></small></small></small></small></small></small></small></small></small></small></small>
+><small><small><small><small><small><small><small><small><small><small><small><small><small><small><small><small>好闲啊...我是gay，我是0...额...我发情了你信吗，你不信，你不许信</small></small></small></small></small></small></small></small></small></small></small></small></small></small></small></small>
