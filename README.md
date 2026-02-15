@@ -15,6 +15,7 @@
 ---
 
 ### 众生之门开发
+<img src="https://raw.githubusercontent.com/crazying-dev/other/main/%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E.png" alt="。" style="width:5px;height:auto;border-radius:8px;">
 
 ---
 
@@ -30,7 +31,8 @@
 `2026.02.12` - 抠图*1 -获取了[御灵系图标](./ReadExplor/成果/御灵系.md)  
 `2026.02.13` - 获取[众生之门logo](./ReadExplor/logo.md)  
 `2026.02.14` - 抠图*1 -获取了[空间系图标](./ReadExplor/成果/空间系.md)  
-`2026.02.14` - 抠图*1 -获取了[心灵系图标](./ReadExplor/成果/空间系.md)
+`2026.02.14` - 抠图*1 -获取了[心灵系图标](./ReadExplor/成果/空间系.md)  
+`2026.02.15` - 撰写游[戏规则文档](./材料/文档/规则/rule.md),[文档描述](./材料/文档/规则/描述.txt)  
 
 ---
 
